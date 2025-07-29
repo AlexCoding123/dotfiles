@@ -1,0 +1,9 @@
+font-size = 24
+font-family = Hack Nerd Font
+keybind = ctrl+l=new_split:right
+keybind = ctrl+z=close_surface
+theme = catppuccin-frappe
+window-decoration = false
+background-opacity = 0.6
+background-blur-radius = 10
+
